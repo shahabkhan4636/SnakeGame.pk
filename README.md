@@ -12,6 +12,10 @@ The classic **Snake game** in your browser — eat, grow, and don't crash!
 ## 🚀 Live Demo
 **https://shahabkhan4636.github.io/SnakeGame.pk/**
 
+## 📸 Screenshot
+
+[![Preview](https://raw.githubusercontent.com/shahabkhan4636/shahabkhan4636/main/images/snakegame.png)](https://shahabkhan4636.github.io/SnakeGame.pk/)
+
 ## 🛠️ Tech Stack
 `HTML` `CSS` `JavaScript` `Canvas API`
 
